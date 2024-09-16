@@ -3,4 +3,4 @@
 Email:     aquahobbyst@proton.me\
 Website:   oliverkwebb.github.io\
 Pronouns:  Any/All\
-Knowladge: C, Linux, Bash, Lua
+Knowledge: C, Linux, Bash, Lua
