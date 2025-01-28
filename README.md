@@ -3,5 +3,5 @@
 * Email:     aquahobbyst@proton.me
 * Website:   https://oliverkwebb.github.io
 * Pronouns:  Any/All
-* Knowledge: C, Linux, Bash, Lua
-* Currently Learning:  Lisp, Functional Programming, Lower Level Embedded Programming
+* Knowledge: C, Linux, Bash, Lua, Rust
+* Currently Learning:  Lisp, OCaml, Functional Programming, Lower Level Embedded Programming
