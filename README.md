@@ -4,4 +4,4 @@
 * Website:   https://oliverkwebb.github.io
 * Pronouns:  Any/All
 * Knowledge: C, Linux, Bash, Lua, Rust
-* Currently Learning:  Lisp, OCaml, Functional Programming, Lower Level Embedded Programming
+* Currently Learning:  Lisp, Functional Programming, Lower Level Embedded Programming
